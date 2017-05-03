@@ -32,6 +32,8 @@ public class ArrayList {
     // segunda alteração, questão 4, para gerar conflito
 
 // Alteração lunatica!
+    
+    //mexida depois de fazer o push
 
 
 }
