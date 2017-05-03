@@ -30,4 +30,7 @@ public class ArrayList {
 
  
     // segunda alteração, questão 4, para gerar conflito
+
+// Alteração lunatica!
+
 }
