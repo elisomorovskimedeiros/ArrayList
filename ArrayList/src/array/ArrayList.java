@@ -28,4 +28,6 @@ public class ArrayList {
     }
    //primeira alteração, questão 2
     
+    //alteração questão 4, pra gerar conflito
+    
 }
