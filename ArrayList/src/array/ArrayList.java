@@ -27,5 +27,6 @@ public class ArrayList {
         exe1.add("barara");
     }
    //primeira alteração, questão 2
-    
+ 
+    // segunda alteração, questão 4
 }
