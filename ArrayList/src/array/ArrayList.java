@@ -27,6 +27,12 @@ public class ArrayList {
         exe1.add("barara");
     }
    //primeira alteração, questão 2
+<<<<<<< HEAD
  
     // segunda alteração, questão 4, para gerar conflito
+=======
+    
+    //alteração questão 4, pra gerar conflito
+    
+>>>>>>> branch 'master' of https://github.com/elisomorovskimedeiros/ArrayList.git
 }
