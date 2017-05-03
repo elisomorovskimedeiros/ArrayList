@@ -28,5 +28,5 @@ public class ArrayList {
     }
    //primeira alteração, questão 2
  
-    // segunda alteração, questão 4
+    // segunda alteração, questão 4, para gerar conflito!
 }
