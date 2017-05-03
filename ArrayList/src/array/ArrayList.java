@@ -27,9 +27,11 @@ public class ArrayList {
         exe1.add("barara");
     }
    //primeira alteração, questão 2
-    
-    //alteração questão 4, pra gerar conflito
-    
-    //fiz o branch_eli
-    
+
+ 
+    // segunda alteração, questão 4, para gerar conflito
+
+// Alteração lunatica!
+
+
 }
