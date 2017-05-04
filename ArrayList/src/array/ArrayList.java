@@ -25,6 +25,8 @@ public class ArrayList {
         exe1.add("ararara");
         exe1.add("tororo");
         exe1.add("barara");
+        exe1.add("cururu");
+        exe1.add("tetessfdg");
     }
    //primeira alteração, questão 2
 
@@ -35,5 +37,7 @@ public class ArrayList {
     
     //mexida depois de fazer o push
  // Alteração de novo.
+    
+    //Alterando 
 
 }
