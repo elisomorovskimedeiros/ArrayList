@@ -34,6 +34,6 @@ public class ArrayList {
 // Alteração lunatica!
     
     //mexida depois de fazer o push
-
+ // Alteração de novo.
 
 }
