@@ -18,6 +18,7 @@ public class ArrayList {
          
         for (String exe : exe1){
             System.out.println(exe);
+            System.out.println(\n);  //<------- Alteração na questão de branch
         }
     }
      
@@ -25,10 +26,11 @@ public class ArrayList {
         exe1.add("ararara");
         exe1.add("tororo");
         exe1.add("barara");
+
         exe1.add("cururu");
         exe1.add("tetessfdg");
         exe1.add("eutata");
-    }
+
    //primeira alteração, questão 2
 
  
