@@ -25,6 +25,7 @@ public class ArrayList {
         exe1.add("ararara");
         exe1.add("tororo");
         exe1.add("barara");
+        exe1.add("eutata");
     }
    //primeira alteração, questão 2
 
